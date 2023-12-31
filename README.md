@@ -1,5 +1,7 @@
 # Social Media Clone
 
+practice with planning out a project using draw.io and using React to handle state
+
 Created by: [Hunter Empey](https://github.com/LizardMak), [Christopher Ross Davila](https://github.com/ChrisRDavila), and Aaron Mejia
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
